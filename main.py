@@ -19,6 +19,7 @@ def _safe_nltk_download(pkg):
         nltk.download(pkg.split("/")[-1], quiet=True)
 
 _safe_nltk_download("tokenizers/punkt")
+_safe_nltk_download("tokenizers/punkt_tab")  # Added punkt_tab for sentence tokenization
 _safe_nltk_download("corpora/wordnet")
 _safe_nltk_download("corpora/omw-1.4")
 _safe_nltk_download("corpora/stopwords")

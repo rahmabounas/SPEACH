@@ -1,0 +1,35 @@
+Welcome to the speech-enabled chatbot! This is a sample corpus file to demonstrate the chatbot's functionality.
+
+The chatbot can answer questions about the content of this text file. You can upload your own text file in the sidebar to teach the chatbot new information.
+
+The chatbot works by finding the most relevant sentence in the corpus that matches your question. It uses natural language processing techniques to understand your query and provide relevant responses.
+
+Features of this chatbot include:
+- Text-based conversation interface
+- Speech recognition for voice input
+- Multi-language support for speech recognition
+- Session state management to maintain conversation history
+
+Supported languages for speech recognition:
+- English (US and UK)
+- French
+- Spanish
+- German
+- Italian
+- Portuguese
+- Russian
+- Japanese
+- Chinese (Mandarin)
+- Arabic
+
+To use the speech recognition feature, click the "Speak instead" button and speak your question clearly into your microphone. The chatbot will transcribe your speech and respond based on the content of the corpus.
+
+For best results:
+- Speak clearly and at a moderate pace
+- Use a good quality microphone
+- Ensure you have a stable internet connection
+- Minimize background noise
+
+You can also type your messages directly in the text input field if you prefer not to use speech recognition.
+
+The chatbot will try to find the most relevant information in the corpus to answer your questions. If it cannot find a relevant response, it will ask you to rephrase your question.
