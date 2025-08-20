@@ -31,6 +31,21 @@ The speech recognition supports the following languages:
 - Streamlit
 - SpeechRecognition
 
+## System Dependencies
+
+For speech recognition to work properly, you may need to install system-level dependencies:
+
+### Windows
+- No additional dependencies needed
+
+### macOS
+- Install PortAudio: `brew install portaudio`
+
+### Linux
+- Install PortAudio development package:
+  - Ubuntu/Debian: `sudo apt-get install portaudio19-dev python3-pyaudio`
+  - CentOS/RHEL: `sudo yum install portaudio-devel pyaudio`
+
 ## Installation
 
 1. Install the required packages:
